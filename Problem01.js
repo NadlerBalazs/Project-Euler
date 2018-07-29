@@ -1,4 +1,4 @@
-//Project Euler - Problem 1 - Multiples of 3 and 5
+//Project Euler - Problem 1 - Multiples of 3 and 5 
 
 function multiplesOf3and5(number) {
   let arr = [...Array(number).keys()];
